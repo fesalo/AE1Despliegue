@@ -1,0 +1,61 @@
+/* styles.css */
+
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 50px;
+}
+
+/* Juego */
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Formulario */
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 18px;
+    width: 50px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #434BE7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3a42c5;
+}
+
+/* Letras usadas */
+p:last-of-type {
+    font-size: 16px;
+    text-align: center;
+    color: #666;
+}
