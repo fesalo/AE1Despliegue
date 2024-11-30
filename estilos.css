@@ -1,28 +1,22 @@
-/* styles.css */
-
-/* General */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #E8F5E9; 
     margin: 0;
     padding: 0;
 }
 
-/* Header */
 h1 {
     text-align: center;
-    color: #333;
+    color: #388E3C; 
     margin-top: 50px;
 }
 
-/* Juego */
 p {
     text-align: center;
     font-size: 18px;
-    color: #333;
+    color: #388E3C; 
 }
 
-/* Formulario */
 form {
     display: flex;
     justify-content: center;
@@ -35,14 +29,14 @@ input[type="text"] {
     width: 50px;
     text-align: center;
     border-radius: 5px;
-    border: 2px solid #ccc;
+    border: 2px solid #81C784; 
     margin-right: 10px;
 }
 
 button {
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #434BE7;
+    background-color: #66BB6A; 
     color: white;
     border: none;
     border-radius: 5px;
@@ -50,12 +44,12 @@ button {
 }
 
 button:hover {
-    background-color: #3a42c5;
+    background-color: #388E3C; 
 }
 
-/* Letras usadas */
+
 p:last-of-type {
     font-size: 16px;
     text-align: center;
-    color: #666;
+    color: #66BB6A; 
 }
